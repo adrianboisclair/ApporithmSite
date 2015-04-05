@@ -37,6 +37,8 @@
       <file leaf-file-name="fake-paper-shadow.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fake-paper-shadow.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.17894737" vertical-offset="0" max-vertical-offset="665">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -309,6 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fake-paper-shadow.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17894737" vertical-offset="0" max-vertical-offset="665">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
           <folding />
         </state>
       </provider>
